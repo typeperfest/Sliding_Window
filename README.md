@@ -24,9 +24,11 @@ ____
 производится проверка работы НС. 
 
 ![Image alt](https://github.com/typeperfest/Sliding_Window/raw/master/img/23_eras.png "23 эпохи обучения")
+
 Результат работы НС после 23 эпох обучения с целевой среднеквадратичной ошибкой 0.1
 
 ![Image alt](https://github.com/typeperfest/Sliding_Window/raw/master/img/262849_eras.png "262 849 эпох обучения")
+
 Результат работы НС после 262849 эпох обучения с целевой среднеквадратичной ошибкой 0.001
 
 ![Image alt](https://github.com/typeperfest/Sliding_Window/raw/master/img/608746_eras.png "608 746 эпох обучения")
@@ -36,5 +38,6 @@ ____
 В результате различных выборок целевой среднеквадратичной ошибки была сформирована зависимость числа эпох обучения от 
 значения среднеквадратичной ошибки:
 ![alt text](https://github.com/typeperfest/Sliding_Window/raw/master/img/dependency.png "Зависимость эпох обучения от среднеквадратичной ошибки")
+
 На изображении видно, что зависимость экспоненциальная.
 
